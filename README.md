@@ -1,7 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](https://svkstiffin.great-site.net/)
-
-![Restaurant Landing Page](![image](https://github.com/DeepanshuCSIT/reactJS-Project/assets/93028563/b7752bfa-836c-471c-8e37-a39d417ab19d))
+### [Live Site](http://svkstiffin.great-site.net/)/)
 
 ## Introduction
 
