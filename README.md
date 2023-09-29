@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site](http://svkstiffin.great-site.net/)/)
+### [Live Site](http://svkstiffin.great-site.net/)
 
 ## Introduction
 
